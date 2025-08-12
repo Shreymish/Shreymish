@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrey Mishra!</h1>
 
-<h3 align="center"> 👋 Hi, I'm Shrey Mishra
+
 
 🎓 B.Tech CSE student | 💻 Aspiring Software Developer | 🤖 AI & Game Development Enthusiast
 
