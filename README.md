@@ -7,7 +7,7 @@
 I'm passionate about building innovative projects that combine creativity with technology. From crafting intelligent systems with AI to designing engaging games, I enjoy learning and creating things that make a difference.
 
 🔧 **Skills**  
-- Programming: Java, Python, C++
+- Programming:  Python
 - Web Development: HTML, CSS, JavaScript, TailwindCSS
 - Tools & Tech: Git, VSCode, GitHub, Gradio, Hugging Face
 - Interests: AI/ML, Game Development, Data Structures & Algorithms
